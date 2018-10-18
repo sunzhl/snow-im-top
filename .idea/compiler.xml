@@ -6,10 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="snow-im-codec" />
         <module name="snow-im-common" />
+        <module name="snow-im-handler" />
         <module name="snow-im-http" />
+        <module name="snow-im-model" />
+        <module name="snow-im-socket" />
         <module name="snow-im-util" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="snow-im-handler" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

@@ -12,6 +12,11 @@
         <module>snow-im-common</module>
         <module>snow-im-util</module>
         <module>snow-im-http</module>
+        <module>snow-im-model</module>
+        <module>snow-im-socket</module>
+        <module>snow-im-codec</module>
+        <module>snow-im-handler</module>
+        <module>snow-im-handler</module>
     </modules>
 
 

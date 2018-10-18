@@ -2,8 +2,13 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/snow-im-codec" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/snow-im-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/snow-im-handler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/snow-im-handler" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/snow-im-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/snow-im-model" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/snow-im-socket" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/snow-im-util" charset="UTF-8" />
   </component>
 </project>
