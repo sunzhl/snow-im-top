@@ -17,6 +17,7 @@
         <module>snow-im-codec</module>
         <module>snow-im-handler</module>
         <module>snow-im-handler</module>
+        <module>snow-im-service</module>
     </modules>
 
 
