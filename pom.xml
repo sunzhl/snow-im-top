@@ -37,11 +37,6 @@
             <artifactId>netty-all</artifactId>
             <version>${netty-version}</version>
         </dependency>
-        <dependency>
-            <groupId>snow-common</groupId>
-            <artifactId>snow.common</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
         <!-- https://mvnrepository.com/artifact/commons-io/commons-io -->
         <dependency>
             <groupId>commons-io</groupId>
